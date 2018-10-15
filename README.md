@@ -35,6 +35,8 @@ Welcome to the [dev.to](https://dev.to) codebase. We are so excited to have you.
 
 ## What is dev.to?
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/dev.to.svg)](https://www.guardrails.io)
+
 [dev.to](https://dev.to) (or just DEV) is a platform where software developers write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community. ❤️
 
 ## Table of Contents
